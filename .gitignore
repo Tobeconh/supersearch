@@ -1,0 +1,8 @@
+.idea
+.idea/*
+.venv
+uv.lock
+pyproject.toml
+.python-version
+*/*.pyc
+*/__pycache__
