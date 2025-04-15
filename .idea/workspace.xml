@@ -1,32 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e514416f-4557-4aad-a4fd-2f51a2b45f49" name="Changes" comment="" />
+    <list default="true" id="e514416f-4557-4aad-a4fd-2f51a2b45f49" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/supersearch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/supersearch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipmanage/managemain.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipmanage/managemain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_part/mainfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/search_part/mainfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_part/seach.py" beforeDir="false" afterPath="$PROJECT_DIR$/search_part/seach.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wangyitest2/wangyitest.py" beforeDir="false" afterPath="$PROJECT_DIR$/wangyitest2/wangyitest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wangyiyun/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/wangyiyun/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wangyiyun/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/wangyiyun/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tobeconh&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ddd915b5-8464-4a2f-823a-1166ebf51612" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tobeconh/supersearch.git&quot;,
+    &quot;accountId&quot;: &quot;ddd915b5-8464-4a2f-823a-1166ebf51612&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2uQvZzZzSwn2S8Z6w5Bu1kfLTB4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.mainui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seach.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wangyitest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tobe/supersearch&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,8 +89,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742193671767</updated>
-      <workItem from="1742193672925" duration="1000" />
+      <workItem from="1742193672925" duration="2986000" />
+      <workItem from="1742197112184" duration="657000" />
+      <workItem from="1742197777901" duration="1985000" />
+      <workItem from="1742343020872" duration="5811000" />
+      <workItem from="1742642578503" duration="2001000" />
+      <workItem from="1742715094889" duration="2303000" />
+      <workItem from="1742970091998" duration="1289000" />
+      <workItem from="1744600623283" duration="27646000" />
+      <workItem from="1744639822353" duration="3281000" />
+      <workItem from="1744643172270" duration="10692000" />
+      <workItem from="1744682157626" duration="906000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/17bc3a9a3f13feeadc44d3eac1c4c09f/Message/MessageTemp/e7a5e7eb9e6aa2231176a91f410c1851/File/QQ音乐爬虫/实训程序/QQMusicSpider.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/supersearch$seach.coverage" NAME="seach Coverage Results" MODIFIED="1744643296460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/search_part" />
+    <SUITE FILE_PATH="coverage/supersearch$wangyitest.coverage" NAME="wangyitest Coverage Results" MODIFIED="1744682766339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wangyitest2" />
+    <SUITE FILE_PATH="coverage/supersearch$test.coverage" NAME="test Coverage Results" MODIFIED="1744682775884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wangyiyun" />
+    <SUITE FILE_PATH="coverage/supersearch$mainui.coverage" NAME="mainui Coverage Results" MODIFIED="1742346043818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
   </component>
 </project>
