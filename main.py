@@ -8,7 +8,7 @@ def main():
     # with open("qq_data.json", "w", encoding="utf-8") as f:
     #     json.dump(qq_songlist, f, ensure_ascii=False, indent=4)
     
-    ncm_songlist = get_songs_from_ncm_playlist("26467411")
+    ncm_songlist = get_songs_from_ncm_playlist("3779629")
     with open("ncm_data.json", "w", encoding="utf-8") as f:
         json.dump(ncm_songlist, f, ensure_ascii=False, indent=4)
 

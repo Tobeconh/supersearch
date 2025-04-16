@@ -1,62 +1,702 @@
 [
     {
         "rank": "1",
-        "name": "Rain after Summer",
-        "time": "05:45",
-        "singer": "羽肿"
+        "name": "风铃 - (Falling U中文版)",
+        "time": "03:02",
+        "singer": "蒋孜怡",
+        "link": "2686272114"
     },
     {
         "rank": "2",
-        "name": "潮鳴り - (潮鸣)",
-        "time": "02:37",
-        "singer": "折戸伸治"
+        "name": "从前以后PT.1",
+        "time": "03:46",
+        "singer": "盛宇D-SHINE/KEY.L刘聪",
+        "link": "2694367060"
     },
     {
         "rank": "3",
-        "name": "Inspire - (激励)",
-        "time": "03:39",
-        "singer": "Capo Productions"
+        "name": "孤雏",
+        "time": "04:53",
+        "singer": "李昊",
+        "link": "2693488956"
     },
     {
         "rank": "4",
-        "name": "Hyacinth",
-        "time": "04:05",
-        "singer": "July"
+        "name": "烟圈 - (泡芙小姐 什么是真正的爱呢？)",
+        "time": "02:17",
+        "singer": "万乐体/999PUNKSTA/Zakiya晴子",
+        "link": "2687364563"
     },
     {
         "rank": "5",
-        "name": "My Soul - (我的灵魂/忧伤还是快乐)",
-        "time": "03:50",
-        "singer": "July"
+        "name": "一点",
+        "time": "03:32",
+        "singer": "Muyoi/徐梦洁",
+        "link": "2686266146"
     },
     {
         "rank": "6",
-        "name": "Best Moments (feat. Kondor)",
-        "time": "03:31",
-        "singer": "Blazo/Kondor"
+        "name": "keep your eyes on me",
+        "time": "02:11",
+        "singer": "三棱镜/Zy",
+        "link": "2686958558"
     },
     {
         "rank": "7",
-        "name": "Lost Love (Instrumental)",
-        "time": "04:30",
-        "singer": "Lunnna/Janey杰尼"
+        "name": "Hide Away (Techno)",
+        "time": "02:00",
+        "singer": "Lunak",
+        "link": "2690590139"
     },
     {
         "rank": "8",
-        "name": "风居住的街道（Piano ver） (翻自 磯村由紀子）",
-        "time": "04:46",
-        "singer": "饭碗的彼岸"
+        "name": "岁月里的花",
+        "time": "04:14",
+        "singer": "莫文蔚",
+        "link": "2692293921"
     },
     {
         "rank": "9",
-        "name": "Beyond The Memory - (记忆之外)",
-        "time": "03:50",
-        "singer": "July"
+        "name": "YATO（你是唯一 ）",
+        "time": "03:09",
+        "singer": "善宇/HYPEEZY",
+        "link": "2688478492"
     },
     {
         "rank": "10",
-        "name": "メインテーマ「永遠の一瞬」 - (主题「永恒的一瞬」)",
+        "name": "来电瑶",
+        "time": "03:40",
+        "singer": "法老/By2",
+        "link": "2690846498"
+    },
+    {
+        "rank": "11",
+        "name": "Worldwide",
+        "time": "04:02",
+        "singer": "法老/泠风",
+        "link": "2693446565"
+    },
+    {
+        "rank": "12",
+        "name": "我放你走",
+        "time": "02:02",
+        "singer": "江泽伟",
+        "link": "2686948803"
+    },
+    {
+        "rank": "13",
+        "name": "131 - (你真正爱过一个人吗？)",
+        "time": "02:14",
+        "singer": "安息日",
+        "link": "2687887144"
+    },
+    {
+        "rank": "14",
+        "name": "卑鄙LilBaby",
+        "time": "02:58",
+        "singer": "CashTrippy/Capper",
+        "link": "2686898672"
+    },
+    {
+        "rank": "15",
+        "name": "千言万语 - (A Thousand Words)",
+        "time": "04:38",
+        "singer": "陶喆",
+        "link": "2690549685"
+    },
+    {
+        "rank": "16",
+        "name": "爱错",
+        "time": "02:48",
+        "singer": "黄子韬",
+        "link": "2689896166"
+    },
+    {
+        "rank": "17",
+        "name": "揽仙歌 - (《问道》手游9周年主题曲)",
+        "time": "04:15",
+        "singer": "许嵩",
+        "link": "2693341350"
+    },
+    {
+        "rank": "18",
+        "name": "Henry, come on",
+        "time": "05:11",
+        "singer": "Lana Del Rey",
+        "link": "2693204930"
+    },
+    {
+        "rank": "19",
+        "name": "Breath of Ocean - (海妖悲鸣)",
+        "time": "02:11",
+        "singer": "Lunak",
+        "link": "2687360653"
+    },
+    {
+        "rank": "20",
+        "name": "爱哎唉",
+        "time": "02:04",
+        "singer": "苏效音",
+        "link": "2686881127"
+    },
+    {
+        "rank": "21",
+        "name": "泪桥 (Live)",
+        "time": "03:41",
+        "singer": "张震岳/Lil Ghost小鬼",
+        "link": "2692670189"
+    },
+    {
+        "rank": "22",
+        "name": "座位",
+        "time": "03:27",
+        "singer": "小阿七",
+        "link": "2688764050"
+    },
+    {
+        "rank": "23",
+        "name": "Moonchild",
+        "time": "04:16",
+        "singer": "陶喆",
+        "link": "2690548915"
+    },
+    {
+        "rank": "24",
+        "name": "半晴天 - (Always Here)",
+        "time": "04:54",
+        "singer": "陶喆",
+        "link": "2690549667"
+    },
+    {
+        "rank": "25",
+        "name": "一点点 - (Just a Little Bit)",
+        "time": "03:49",
+        "singer": "陶喆",
+        "link": "2690549642"
+    },
+    {
+        "rank": "26",
+        "name": "深深",
+        "time": "02:49",
+        "singer": "黄建威",
+        "link": "2692358706"
+    },
+    {
+        "rank": "27",
+        "name": "深深 (Live)",
+        "time": "02:49",
+        "singer": "王赫野/武艺",
+        "link": "2692666067"
+    },
+    {
+        "rank": "28",
+        "name": "Uniqueness - (正式版)",
+        "time": "02:22",
+        "singer": "iphonk",
+        "link": "2690875842"
+    },
+    {
+        "rank": "29",
+        "name": "分秒爱 - (uniqueness说唱版)",
+        "time": "02:17",
+        "singer": "猫头英",
+        "link": "2690845549"
+    },
+    {
+        "rank": "30",
+        "name": "路上 - (On My Way)",
+        "time": "04:25",
+        "singer": "陶喆",
+        "link": "2690549665"
+    },
+    {
+        "rank": "31",
+        "name": "陪你 - (Forever Penny)",
+        "time": "05:04",
+        "singer": "陶喆",
+        "link": "2690549700"
+    },
+    {
+        "rank": "32",
+        "name": "野路",
+        "time": "04:09",
+        "singer": "许嵩",
+        "link": "2689900204"
+    },
+    {
+        "rank": "33",
+        "name": "风催雨",
+        "time": "03:18",
+        "singer": "祝青（G2er）/灼夭",
+        "link": "2690353112"
+    },
+    {
+        "rank": "34",
+        "name": "Ojos Tristes",
+        "time": "03:21",
+        "singer": "Selena Gomez/Benny Blanco",
+        "link": "2682113703"
+    },
+    {
+        "rank": "35",
+        "name": "初春",
+        "time": "02:57",
+        "singer": "王齐铭WatchMe/OneOne",
+        "link": "2681431603"
+    },
+    {
+        "rank": "36",
+        "name": "看着我的眼睛说",
+        "time": "04:20",
+        "singer": "张远",
+        "link": "2689097846"
+    },
+    {
+        "rank": "37",
+        "name": "大风吹过青瓦房",
+        "time": "03:17",
+        "singer": "丹正母子",
+        "link": "2683819463"
+    },
+    {
+        "rank": "38",
+        "name": "珊瑚",
+        "time": "02:58",
+        "singer": "Lonn.E",
+        "link": "2686301870"
+    },
+    {
+        "rank": "39",
+        "name": "小孩 (Live)",
+        "time": "03:58",
+        "singer": "张碧晨/武艺",
+        "link": "2690538846"
+    },
+    {
+        "rank": "40",
+        "name": "空空如也2025",
+        "time": "03:20",
+        "singer": "米籽Mimia",
+        "link": "2687744745"
+    },
+    {
+        "rank": "41",
+        "name": "从前以后PT.2",
+        "time": "03:22",
+        "singer": "盛宇D-SHINE/Ranzer",
+        "link": "2694367845"
+    },
+    {
+        "rank": "42",
+        "name": "Always Been You",
+        "time": "02:17",
+        "singer": "Lunak",
+        "link": "2689631825"
+    },
+    {
+        "rank": "43",
+        "name": "作茧 - (《世界之外》「柏源」2025年生日主题歌)",
+        "time": "03:25",
+        "singer": "世界之外",
+        "link": "2693006707"
+    },
+    {
+        "rank": "44",
+        "name": "后来的雨天 - (Always)",
+        "time": "03:26",
+        "singer": "银河快递",
+        "link": "2688483885"
+    },
+    {
+        "rank": "45",
+        "name": "Teardrops",
+        "time": "03:36",
+        "singer": "张子墨z!mooo/BOY STORY 涵予/BOY STORY 梓豪/BOY STORY 鑫隆/Brandon Beal/BOY STORY",
+        "link": "2683582464"
+    },
+    {
+        "rank": "46",
+        "name": "你呀你呀",
+        "time": "04:14",
+        "singer": "王子健/十八薰",
+        "link": "2693061959"
+    },
+    {
+        "rank": "47",
+        "name": "졸려 瞌睡",
+        "time": "02:56",
+        "singer": "念先生",
+        "link": "2686644196"
+    },
+    {
+        "rank": "48",
+        "name": "心得软",
+        "time": "03:07",
+        "singer": "盛宇D-SHINE",
+        "link": "2692676247"
+    },
+    {
+        "rank": "49",
+        "name": "所以爱",
+        "time": "03:29",
+        "singer": "Max李玄/邹沛沛",
+        "link": "2687308970"
+    },
+    {
+        "rank": "50",
+        "name": "Stay With Me (Phonk)",
+        "time": "02:15",
+        "singer": "Lunak",
+        "link": "2690589227"
+    },
+    {
+        "rank": "51",
+        "name": "恋人未满",
+        "time": "04:13",
+        "singer": "关诗敏",
+        "link": "2693473621"
+    },
+    {
+        "rank": "52",
+        "name": "真爱你的云（天是透明的）",
+        "time": "04:26",
+        "singer": "郑杰伦",
+        "link": "2690205237"
+    },
+    {
+        "rank": "53",
+        "name": "我的爱没前奏 - (piano version)",
+        "time": "03:14",
+        "singer": "罗森涛",
+        "link": "2688751965"
+    },
+    {
+        "rank": "54",
+        "name": "雨爱 (Live)",
+        "time": "04:06",
+        "singer": "欧阳娜娜/陈卓璇",
+        "link": "2692670191"
+    },
+    {
+        "rank": "55",
+        "name": "爱错 (Live)",
+        "time": "04:01",
+        "singer": "张碧晨",
+        "link": "2692666069"
+    },
+    {
+        "rank": "56",
+        "name": "旅途 - (影视剧《吃饭跑步和恋爱》人物曲)",
+        "time": "04:09",
+        "singer": "房东的猫",
+        "link": "2692692018"
+    },
+    {
+        "rank": "57",
+        "name": "ANANURHAN - (阿娜努尔汗)",
+        "time": "04:02",
+        "singer": "Dhino/沙Shah/Hasanjan-Jelil",
+        "link": "2693763638"
+    },
+    {
+        "rank": "58",
+        "name": "KNOW ABOUT ME",
+        "time": "02:45",
+        "singer": "NMIXX",
+        "link": "2684172287"
+    },
+    {
+        "rank": "59",
+        "name": "春天是一首浪漫诗",
+        "time": "02:35",
+        "singer": "Youzee Music",
+        "link": "2686275398"
+    },
+    {
+        "rank": "60",
+        "name": "もうどうなってもいいや - (算了 爱怎样怎样)",
+        "time": "03:23",
+        "singer": "星街すいせい",
+        "link": "2692293624"
+    },
+    {
+        "rank": "61",
+        "name": "烟灰 - (她十七岁那年就学会了抽烟)",
+        "time": "02:12",
+        "singer": "Veco/无面小生",
+        "link": "2684222157"
+    },
+    {
+        "rank": "62",
+        "name": "twilight zone",
+        "time": "03:18",
+        "singer": "Ariana Grande",
+        "link": "2689018742"
+    },
+    {
+        "rank": "63",
+        "name": "我好喜欢我自己",
+        "time": "03:00",
+        "singer": "coco这个李文",
+        "link": "2686626070"
+    },
+    {
+        "rank": "64",
+        "name": "02年的第一场雨",
+        "time": "04:08",
+        "singer": "布鲁昔",
+        "link": "2692654240"
+    },
+    {
+        "rank": "65",
+        "name": "Unchanged Mind - (说唱版)",
+        "time": "02:35",
+        "singer": "Jazzy/赋生/Szh",
+        "link": "2685271367"
+    },
+    {
+        "rank": "66",
+        "name": "天球(そら)のMúsica - (TV动画《BanG Dream! Ave Mujica》最终话插入曲)",
+        "time": "04:39",
+        "singer": "Ave Mujica",
+        "link": "2689981077"
+    },
+    {
+        "rank": "67",
+        "name": "B-DROP",
+        "time": "02:21",
+        "singer": "盛宇D-SHINE",
+        "link": "2691780295"
+    },
+    {
+        "rank": "68",
+        "name": "等你多久我都愿意",
+        "time": "02:15",
+        "singer": "999PUNKSTA",
+        "link": "2685595829"
+    },
+    {
+        "rank": "69",
+        "name": "酒后",
+        "time": "02:29",
+        "singer": "该隐",
+        "link": "2686979836"
+    },
+    {
+        "rank": "70",
+        "name": "谁会来拆穿 - (如果爱你注定要多一点等候)",
+        "time": "02:20",
+        "singer": "Steven/Zy",
+        "link": "2685472561"
+    },
+    {
+        "rank": "71",
+        "name": "INERTIA - (TV动画《凸变英雄X》片头曲)",
+        "time": "03:19",
+        "singer": "SawanoHiroyuki[nZk]/Rei",
+        "link": "2686299978"
+    },
+    {
+        "rank": "72",
+        "name": "分离焦虑 - (你说你讨厌异地恋但爱他一万零一遍)",
+        "time": "02:07",
+        "singer": "万乐体",
+        "link": "2693062113"
+    },
+    {
+        "rank": "73",
+        "name": "单挑王",
+        "time": "02:37",
+        "singer": "盛宇D-SHINE",
+        "link": "2694366996"
+    },
+    {
+        "rank": "74",
+        "name": "怪自己 - (做了18年的乖小孩也想冒险去选)",
+        "time": "02:42",
+        "singer": "Cloud9",
+        "link": "2689061036"
+    },
+    {
+        "rank": "75",
+        "name": "ダイダイダイダイダイキライ",
+        "time": "02:36",
+        "singer": "雨良 Amala",
+        "link": "2686166750"
+    },
+    {
+        "rank": "76",
+        "name": "GBAD",
+        "time": "03:10",
+        "singer": "王嘉尔",
+        "link": "2687745054"
+    },
+    {
+        "rank": "77",
+        "name": "Kapida Yaziyor 10 Numara",
+        "time": "03:15",
+        "singer": "Rhaynex/Egehan",
+        "link": "2689935225"
+    },
+    {
+        "rank": "78",
+        "name": "值得爱 - (电视剧《值得爱》同名主题曲)",
+        "time": "04:17",
+        "singer": "颜人中",
+        "link": "2690581564"
+    },
+    {
+        "rank": "79",
+        "name": "女孩 (Live)",
+        "time": "04:01",
+        "singer": "Lil Ghost小鬼/王赫野",
+        "link": "2690538882"
+    },
+    {
+        "rank": "80",
+        "name": "攻心（Burn Your Heart）",
+        "time": "01:58",
+        "singer": "水墨流苏",
+        "link": "2692040787"
+    },
+    {
+        "rank": "81",
+        "name": "训",
+        "time": "02:29",
+        "singer": "余-AcoLasia",
+        "link": "2691518499"
+    },
+    {
+        "rank": "82",
+        "name": "怀疑人生",
+        "time": "04:29",
+        "singer": "MC 张天赋",
+        "link": "2689404440"
+    },
+    {
+        "rank": "83",
+        "name": "四月物语",
+        "time": "03:33",
+        "singer": "林家谦",
+        "link": "2693503561"
+    },
+    {
+        "rank": "84",
+        "name": "错位",
+        "time": "04:18",
+        "singer": "杜宣达",
+        "link": "2691476010"
+    },
+    {
+        "rank": "85",
+        "name": "保利中心",
+        "time": "02:34",
+        "singer": "CashTrippy",
+        "link": "2686896004"
+    },
+    {
+        "rank": "86",
+        "name": "RNB没转音",
+        "time": "02:39",
+        "singer": "罗森涛",
+        "link": "2692367868"
+    },
+    {
+        "rank": "87",
+        "name": "山峰",
+        "time": "03:22",
+        "singer": "何浩楠",
+        "link": "2690847039"
+    },
+    {
+        "rank": "88",
+        "name": "日暮里",
         "time": "03:56",
-        "singer": "伊藤賢治"
+        "singer": "房东的猫",
+        "link": "2685468073"
+    },
+    {
+        "rank": "89",
+        "name": "Roxy",
+        "time": "03:12",
+        "singer": "Johnny Stimson/Grant Terry",
+        "link": "2682998343"
+    },
+    {
+        "rank": "90",
+        "name": "几天",
+        "time": "03:17",
+        "singer": "LBI利比",
+        "link": "2693419849"
+    },
+    {
+        "rank": "91",
+        "name": "跳楼机 (粤语版)",
+        "time": "03:20",
+        "singer": "常颖杰",
+        "link": "2688783333"
+    },
+    {
+        "rank": "92",
+        "name": "人生啊总有一些追求",
+        "time": "04:23",
+        "singer": "歌之初乐队",
+        "link": "2692058252"
+    },
+    {
+        "rank": "93",
+        "name": "Mëni (余烬)",
+        "time": "03:54",
+        "singer": "AThree",
+        "link": "2688726791"
+    },
+    {
+        "rank": "94",
+        "name": "你最懂我失落",
+        "time": "04:00",
+        "singer": "鹭卓",
+        "link": "2673695893"
+    },
+    {
+        "rank": "95",
+        "name": "❄️ - (陪你看的雪花)",
+        "time": "02:50",
+        "singer": "BAddrAmaswItCh/Zakiya晴子/AX",
+        "link": "2688097771"
+    },
+    {
+        "rank": "96",
+        "name": "罢休",
+        "time": "03:24",
+        "singer": "en",
+        "link": "2693355152"
+    },
+    {
+        "rank": "97",
+        "name": "有，没有",
+        "time": "03:49",
+        "singer": "h3R3/丁肆Dicey",
+        "link": "2685578497"
+    },
+    {
+        "rank": "98",
+        "name": "清醒梦",
+        "time": "01:50",
+        "singer": "在虚无中永存",
+        "link": "2688242045"
+    },
+    {
+        "rank": "99",
+        "name": "背靠背",
+        "time": "03:33",
+        "singer": "6SP",
+        "link": "2686631199"
+    },
+    {
+        "rank": "100",
+        "name": "渴望就可能 - (百事可乐品牌主题曲)",
+        "time": "03:29",
+        "singer": "TOP登陆少年组合",
+        "link": "2688841966"
     }
 ]
