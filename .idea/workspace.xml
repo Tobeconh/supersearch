@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e514416f-4557-4aad-a4fd-2f51a2b45f49" name="Changes" comment="1">
+    <list default="true" id="e514416f-4557-4aad-a4fd-2f51a2b45f49" name="Changes" comment="littlechange">
+      <change afterPath="$PROJECT_DIR$/COMMENT_SEARCH/GET_SONGS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COMMENT_SEARCH/songs_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/information_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/llm_analysis/emotion_Analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manageData/comment_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_part/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/crawler_factory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crawler/ncm_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/ncm_crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ncm_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/ncm_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manageData/manageData.py" beforeDir="false" afterPath="$PROJECT_DIR$/manageData/manageData.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,39 +58,55 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2uQvZzZzSwn2S8Z6w5Bu1kfLTB4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.QQMusicSpider.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mainui.executor": "Run",
-    "Python.manageData.executor": "Run",
-    "Python.seach.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.wangyitest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/tobe/supersearch",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.GET_SONGS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QQMusicSpider.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ai_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comment_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_comment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mainui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.manageData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ncm_crawler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seach.executor&quot;: &quot;Run&quot;,
+    &quot;Python.songs_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wangyitest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tobe/supersearch&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/search_part" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
-        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
@@ -105,7 +129,17 @@
       <workItem from="1744639822353" duration="3281000" />
       <workItem from="1744643172270" duration="10692000" />
       <workItem from="1744682157626" duration="20051000" />
-      <workItem from="1744774956257" duration="2793000" />
+      <workItem from="1744774956257" duration="11946000" />
+      <workItem from="1745386993057" duration="1835000" />
+      <workItem from="1747059966533" duration="11000" />
+      <workItem from="1747116045665" duration="12503000" />
+      <workItem from="1747199158506" duration="1355000" />
+      <workItem from="1747709125927" duration="32054000" />
+      <workItem from="1747814193330" duration="2647000" />
+      <workItem from="1748157223261" duration="1163000" />
+      <workItem from="1748588320153" duration="184000" />
+      <workItem from="1748595822011" duration="626000" />
+      <workItem from="1748873682179" duration="1695000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -115,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744683197924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1744777906635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744777906635</updated>
+    </task>
+    <task id="LOCAL-00003" summary="littlechange">
+      <option name="closed" value="true" />
+      <created>1744778038789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744778038789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,8 +183,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="little change" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="littlechange" />
+    <option name="LAST_COMMIT_MESSAGE" value="littlechange" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -150,19 +202,27 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
+          <url>file://$PROJECT_DIR$/llm_analysis/ai_analysis.py</url>
+          <line>15</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/supersearch$seach.coverage" NAME="seach Coverage Results" MODIFIED="1744643296460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/search_part" />
-    <SUITE FILE_PATH="coverage/supersearch$QQMusicSpider.coverage" NAME="QQMusicSpider Coverage Results" MODIFIED="1744688452390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/17bc3a9a3f13feeadc44d3eac1c4c09f/Message/MessageTemp/e7a5e7eb9e6aa2231176a91f410c1851/File/QQ音乐爬虫/实训程序" />
-    <SUITE FILE_PATH="coverage/supersearch$main.coverage" NAME="main Coverage Results" MODIFIED="1744775613927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/supersearch$wangyitest.coverage" NAME="wangyitest Coverage Results" MODIFIED="1744682766339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wangyitest2" />
-    <SUITE FILE_PATH="coverage/supersearch$manageData.coverage" NAME="manageData Coverage Results" MODIFIED="1744705878384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manageData" />
+    <SUITE FILE_PATH="coverage/supersearch$run.coverage" NAME="run 覆盖结果" MODIFIED="1748596321165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/music_web" />
+    <SUITE FILE_PATH="coverage/supersearch$GET_SONGS.coverage" NAME="GET_SONGS 覆盖结果" MODIFIED="1747804849698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/COMMENT_SEARCH" />
+    <SUITE FILE_PATH="coverage/supersearch$get_comment.coverage" NAME="get_comment 覆盖结果" MODIFIED="1747734778329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/COMMENT_SEARCH" />
     <SUITE FILE_PATH="coverage/supersearch$test.coverage" NAME="test Coverage Results" MODIFIED="1744682775884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wangyiyun" />
+    <SUITE FILE_PATH="coverage/supersearch$QQMusicSpider.coverage" NAME="QQMusicSpider Coverage Results" MODIFIED="1744688452390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/17bc3a9a3f13feeadc44d3eac1c4c09f/Message/MessageTemp/e7a5e7eb9e6aa2231176a91f410c1851/File/QQ音乐爬虫/实训程序" />
+    <SUITE FILE_PATH="coverage/supersearch$main.coverage" NAME="main 覆盖结果" MODIFIED="1748874326129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/search_part" />
+    <SUITE FILE_PATH="coverage/supersearch$ncm_crawler.coverage" NAME="ncm_crawler 覆盖结果" MODIFIED="1747120126337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
+    <SUITE FILE_PATH="coverage/supersearch$comment_analysis.coverage" NAME="comment_analysis 覆盖结果" MODIFIED="1747813759332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manageData" />
+    <SUITE FILE_PATH="coverage/supersearch$seach.coverage" NAME="seach Coverage Results" MODIFIED="1744643296460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/search_part" />
+    <SUITE FILE_PATH="coverage/supersearch$wangyitest.coverage" NAME="wangyitest Coverage Results" MODIFIED="1744682766339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wangyitest2" />
     <SUITE FILE_PATH="coverage/supersearch$mainui.coverage" NAME="mainui Coverage Results" MODIFIED="1742346043818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
+    <SUITE FILE_PATH="coverage/supersearch$manageData.coverage" NAME="manageData 覆盖结果" MODIFIED="1747804507253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manageData" />
+    <SUITE FILE_PATH="coverage/supersearch$ai_analysis.coverage" NAME="ai_analysis 覆盖结果" MODIFIED="1748588459779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/llm_analysis" />
+    <SUITE FILE_PATH="coverage/supersearch$songs_list.coverage" NAME="songs_list 覆盖结果" MODIFIED="1747130004234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/COMMENT_SEARCH" />
   </component>
 </project>

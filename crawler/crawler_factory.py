@@ -19,6 +19,7 @@ def create_headless_crawler():
 
 def create_normal_crawler():
     options = webdriver.ChromeOptions()
+    options.add_argument("--headless")
     options.add_argument("--enable-javascript")
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument(

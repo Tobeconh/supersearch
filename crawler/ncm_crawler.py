@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-from .crawler_factory import create_normal_crawler
+from .crawler_factory import create_normal_crawler, create_headless_crawler
 
 
 def extract_song_data_from_element(element):
@@ -51,10 +51,24 @@ def get_songs_from_ncm_playlist(playlist_id: str):
 
     sleep(5)
     # print(crawler.page_source)
-    soup = BeautifulSoup(crawler.page_source, "html")
+    soup = BeautifulSoup(crawler.page_source, "lxml")
     song_elements = soup.find(id="song-list-pre-cache").find("tbody").find_all("tr")
     print("正在爬取数据...")
     # print(song_elements)
     crawler.quit()
 
     return [extract_song_data_from_element(song) for song in song_elements]
+
+def get_songs_infromation_from_ncm_playlist_by_url(playlist_url: str):
+    crawler = create_headless_crawler()
+    # 加载失败报错，否则继续执行程序
+    try:
+        crawler.get(f"https://music.163.com/#/song?id={playlist_url}")
+    except TimeoutError as e:
+        print("加载失败:", e)
+        crawler.quit()
+        exit(1)
+    crawler.switch_to.frame("contentFrame")
+    WebDriverWait(crawler, 15).until(
+        EC.presence_of_element_located((By.ID, "song-list-pre-cache"))
+    )
